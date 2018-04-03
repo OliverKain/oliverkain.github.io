@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"*.code-workspace": true,
+			".vscode": true,
+		},
+		"files.trimTrailingWhitespace": true,
+		"files.encoding": "utf8",
+		"editor.rulers": [100],}
+}
